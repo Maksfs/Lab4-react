@@ -1,0 +1,17 @@
+.reports {
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+.reports h2 {
+  font-size: 24px;
+}
+
+.reports ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.reports li {
+  font-size: 18px;
+}
